@@ -5,7 +5,17 @@ QuickSlot is a beautiful, modern, and highly responsive Flutter application desi
 This frontend connects to the QuickSlot backend API to fetch available venues, view time slots, and securely lock in bookings.
 
 ## 📱 Screenshots
-*(Add screenshots of your User Selection, Venues List, and Booking Confirmation screens here for your hackathon submission!)*
+<img width="1280" height="2856" alt="Screenshot_1781117715" src="https://github.com/user-attachments/assets/33113b06-f1c8-471b-980b-3a11f28f6283" />
+
+<img width="1280" height="2856" alt="Screenshot_1781117723" src="https://github.com/user-attachments/assets/f7a9334e-7bec-45b1-b7a7-380950f65102" />
+
+<img width="1280" height="2856" alt="Screenshot_1781117945" src="https://github.com/user-attachments/assets/c3f7aa6e-e230-4339-bf51-e5a3246838dd" />
+
+<img width="1280" height="2856" alt="Screenshot_1781117754" src="https://github.com/user-attachments/assets/f8b29ce8-f068-4ed5-8f99-24ea72103977" />
+
+<img width="1280" height="2856" alt="Screenshot_1781118032" src="https://github.com/user-attachments/assets/b6491da1-d97c-4fe1-b651-8c0b0c95496e" />
+
+
 
 ## 🛠️ Technology Stack
 - **Framework:** Flutter (Dart)
